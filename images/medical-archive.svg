@@ -1,0 +1,27 @@
+<svg width="640" height="520" viewBox="0 0 640 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Medical research archive</title>
+  <desc id="desc">A clean medical research file illustration with scan frame, ECG line, molecule nodes and document records.</desc>
+  <rect width="640" height="520" rx="8" fill="#F6FAFB"/>
+  <rect x="52" y="46" width="536" height="428" rx="8" fill="#FFFFFF" stroke="#DDE7EA" stroke-width="2"/>
+  <rect x="84" y="86" width="196" height="152" rx="6" fill="#EEF8F9" stroke="#DDE7EA" stroke-width="2"/>
+  <path d="M112 188H142L157 148L178 218L202 126L222 188H252" stroke="#0F766E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="316" y="88" width="196" height="18" rx="4" fill="#164E63"/>
+  <rect x="316" y="124" width="156" height="12" rx="4" fill="#38BDF8"/>
+  <rect x="316" y="154" width="188" height="12" rx="4" fill="#DDE7EA"/>
+  <rect x="316" y="184" width="132" height="12" rx="4" fill="#DDE7EA"/>
+  <rect x="84" y="278" width="150" height="112" rx="6" fill="#FFFFFF" stroke="#DDE7EA" stroke-width="2"/>
+  <rect x="112" y="306" width="94" height="12" rx="4" fill="#164E63"/>
+  <rect x="112" y="334" width="72" height="10" rx="4" fill="#DDE7EA"/>
+  <rect x="112" y="360" width="88" height="10" rx="4" fill="#DDE7EA"/>
+  <rect x="260" y="278" width="150" height="112" rx="6" fill="#FFFFFF" stroke="#DDE7EA" stroke-width="2"/>
+  <rect x="288" y="306" width="94" height="12" rx="4" fill="#0F766E"/>
+  <rect x="288" y="334" width="72" height="10" rx="4" fill="#DDE7EA"/>
+  <rect x="288" y="360" width="88" height="10" rx="4" fill="#DDE7EA"/>
+  <rect x="436" y="278" width="104" height="112" rx="6" fill="#EEF8F9" stroke="#DDE7EA" stroke-width="2"/>
+  <path d="M489 318L489 350M473 334H505" stroke="#0F766E" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="474" cy="430" r="12" fill="#38BDF8"/>
+  <circle cx="520" cy="430" r="12" fill="#0F766E"/>
+  <circle cx="497" cy="400" r="12" fill="#F59E0B"/>
+  <path d="M483 421L492 409M507 409L515 421" stroke="#164E63" stroke-width="3" stroke-linecap="round"/>
+  <path d="M70 58H154M70 462H154M486 58H570M486 462H570" stroke="#0F766E" stroke-width="4" stroke-linecap="round"/>
+</svg>
